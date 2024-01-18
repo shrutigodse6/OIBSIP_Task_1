@@ -5,7 +5,7 @@ This Java program implements a simple number guessing game where the player has 
 The game consists of multiple rounds, and in each round, the player has a limited number of attempts to guess the correct number.
 
 Description: 
-How to Play Setup: 
+How to Play Setup: (Output is Below the code)
 
 The game will generate a random number within a specified range (default: 1 to 100). You will have a limited number of attempts to guess the correct number (default: 10 attempts per round). The game consists of a total of 3 rounds.
 Playing a Round
